@@ -6,9 +6,9 @@ const person = {
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Frontend Developer",
-  avatar: "/images/avatar.jpg",
-  location: "Asia/Kolkata",
+  role: "Fullstack Developer",
+  avatar: "/images/shubham.jpg",
+  location: "Pune",
   languages: ["English", "Hindi", "Marathi"],
 };
 
@@ -17,7 +17,7 @@ const newsletter = {
   title: <>Subscribe to {person.firstName}'s Newsletter</>,
   description: (
     <>
-      I write about frontend development, web performance, and the latest in tech.
+      I write about Fullstack development, web performance, and the latest in tech.
     </>
   ),
 };
@@ -49,12 +49,13 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Frontend Developer & Problem Solver</>,
+  headline: <>Full Stack Engineer | Web & Mobile Solutions | 3 Years Exp</>,
   subline: (
     <>
-      I'm Shubham, a frontend developer skilled in <InlineCode>React</InlineCode> and <InlineCode>Vue.js</InlineCode>.
-      I build fast, responsive interfaces and love turning designs into real user experiences.
-    </>
+  Hi, I'm Shubham — a full stack developer specializing in <InlineCode>React</InlineCode>, <InlineCode>Vue.js</InlineCode>, and <InlineCode>Next.js</InlineCode>. 
+  I craft high-performance applications with a focus on clean code and great user experience.
+</>
+
   ),
 };
 
@@ -78,8 +79,9 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Shubham is a Pune-based frontend developer passionate about building interactive and user-friendly web
-        applications. Skilled in React and Vue, he focuses on performance, clean code, and seamless user experiences.
+        Hi, I'm Shubham Patil, a passionate Full Stack Developer with 3 years of hands-on experience in building dynamic and scalable web and mobile applications.
+I specialize in frontend technologies like HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactJS, VueJS, and NextJS, while also being proficient in backend development using NodeJS, ExpressJS, and Firestore.
+With a strong foundation in both web and mobile platforms (including React Native), I love crafting seamless user experiences and efficient backend architectures. I'm always excited to take on new challenges and bring innovative ideas to life!
       </>
     ),
   },
