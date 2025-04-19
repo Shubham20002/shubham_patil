@@ -7,7 +7,7 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   role: "Fullstack Developer",
-  avatar: "/images/shubham.jpg",
+  avatar: "/images/avatar.jpg",
   location: "Pune",
   languages: ["English", "Hindi", "Marathi"],
 };
@@ -49,7 +49,7 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Full Stack Engineer | Web & Mobile Solutions | 3 Years Exp</>,
+  headline: <>Full Stack Developer</>,
   subline: (
     <>
   Hi, I'm Shubham — a full stack developer specializing in <InlineCode>React</InlineCode>, <InlineCode>Vue.js</InlineCode>, and <InlineCode>Next.js</InlineCode>. 
