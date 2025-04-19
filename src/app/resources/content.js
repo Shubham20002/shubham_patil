@@ -94,9 +94,12 @@ With a strong foundation in both web and mobile platforms (including React Nativ
         timeframe: "July 2024 – Present",
         role: "SDE1",
         achievements: [
-          <>Developed a motor insurance project using Vue.js, with responsive and user-friendly UI.</>,
-          <>Converted Figma designs into pixel-perfect Vue.js components.</>,
-          <>Improved user experience and resolved bugs effectively.</>,
+
+          <>Developed a motor insurance project from start to finish, using Vue.js to create a responsive and user-friendly frontend interface.</>,
+          <>Collaborated closely with stakeholders to gather requirements, design user flows, and implement features.</>,
+          <>Ensured the performance, quality, and responsiveness of the web application, and debugged and resolved issues to improve user experience.</>,
+          <>Delivered the project on time by following Agile development methodologies, managing sprints, and meeting key deadlines.</>,
+          <>Designed and developed Mobile SDK using React Native</>
         ],
         images: [],
       },
@@ -105,9 +108,16 @@ With a strong foundation in both web and mobile platforms (including React Nativ
         timeframe: "April 2022 – July 2024",
         role: "Project Engineer",
         achievements: [
-          <>Built reusable React and Vue components and implemented REST APIs.</>,
-          <>Ensured cross-browser compatibility and collaborated with backend teams.</>,
+        
+          <>Created responsive and user-friendly web applications using Vue.js and React, ensuring seamless experiences across devices.</>,
+          <>Converted Figma designs into pixel-perfect Vue.js components, maintaining high design consistency.</>,
+          <>Connected frontend interfaces with backend services through RESTful APIs, collaborating effectively with backend teams.</>,
+          <>Enhanced application performance and responsiveness by debugging, testing, and fixing issues across major browsers.</>,
+          <>Managed sprints, tracked progress, and delivered high-quality projects on time following Agile best practices.</>,
+          <>Built reusable UI elements in React and Vue.js to improve maintainability and reduce development time.</>,
+          <>Leveraged Git for collaborative development, maintaining clean and organized project history.</>,
         ],
+        
         images: [],
       },
     ],
