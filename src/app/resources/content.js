@@ -95,11 +95,16 @@ With a strong foundation in both web and mobile platforms (including React Nativ
         role: "SDE1",
         achievements: [
 
-          <>Developed a motor insurance project from start to finish, using Vue.js to create a responsive and user-friendly frontend interface.</>,
-          <>Collaborated closely with stakeholders to gather requirements, design user flows, and implement features.</>,
-          <>Ensured the performance, quality, and responsiveness of the web application, and debugged and resolved issues to improve user experience.</>,
-          <>Delivered the project on time by following Agile development methodologies, managing sprints, and meeting key deadlines.</>,
-          <>Designed and developed Mobile SDK using React Native</>
+          <> Developed responsive insurance portals for Motor, Term, Health, and Savings categories, improving user engagement
+by 25% through seamless cross-device experiences.</>,
+          <> Integrated APIs for real-time data handling, payment processing, reducing transaction processing times by 40%.
+</>,
+          <>Enhanced mobile responsiveness, optimizing page load times by 30% for better performance on diverse screens</>,
+          <>Optimized the source code of a web application by implementing advanced ECMAScript (ES6) techniques, resulting
+in a significant reduction of loading time by 3 seconds, thereby improving performance and user experience.</>,
+          <>Designed and developed Mobile SDK using React Native</>,
+          <> Gained domain expertise in insurance, focusing on user-centric application development and maintaining high-quality
+standards across all project stages.</>
         ],
         images: [],
       },
@@ -141,18 +146,23 @@ With a strong foundation in both web and mobile platforms (including React Nativ
     title: "Technical skills",
     skills: [
       {
-        title: "React & Vue",
-        description: <>Built scalable UIs with reusable components using React and Vue.</>,
+        title: "React, Next.js & Vue",
+        description: <>Built scalable and performant UIs with reusable components using React.js, Next.js, Vue.js, and Vue CLI, implementing state management with Redux Toolkit and Vue Router.</>,
         images: [],
       },
       {
-        title: "JavaScript & HTML/CSS",
-        description: <>Strong foundation in core web technologies and responsive design.</>,
+        title: "JavaScript, HTML5, CSS & TailwindCSS",
+        description: <>Strong foundation in JavaScript, HTML5, and CSS, creating responsive designs using TailwindCSS and Bootstrap. Experience with jQuery for dynamic interactivity.</>,
         images: [],
       },
       {
-        title: "MongoDB & Firebase",
-        description: <>Experience managing data with MongoDB and Firebase.</>,
+        title: "MongoDB, Firebase & RESTful APIs",
+        description: <>Experience managing backend data with MongoDB and Firebase, integrating APIs with Node.js and Express, and ensuring smooth client-server communication through RESTful services.</>,
+        images: [],
+      },
+      {
+        title: "Developer Tools",
+        description: <>Proficient with development and debugging tools like VS Code, Git, Github, Postman, Chrome Developer Tools, and Vue DevTools for efficient workflows.</>,
         images: [],
       },
     ],
